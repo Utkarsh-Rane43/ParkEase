@@ -1,0 +1,7 @@
+MH32F4464, [(0, 0), (0, 1), (0, 2), (1, 2)], (1, 2), Distance: 4 units
+MH32F9461, [(0, 0), (1, 0), (1, 1), (2, 1)], (2, 1), Distance: 4 units
+MH32F9461 unparked from (2, 1) to exit at (0, 0), Path: [(2, 1), (1, 1), (0, 1), (0, 0)], Total Distance: 4 units
+MH32F4464 unparked from (1, 2) to exit at (0, 0), Path: [(1, 2), (1, 1), (0, 1), (0, 0)], Total Distance: 4 units
+MH32F4464, [(0, 7), (0, 6)], (0, 6), Distance: 2 units
+4452, [(0, 0), (0, 1), (0, 2), (1, 2)], (1, 2), Distance: 4 units
+4453, [(0, 0), (1, 0), (1, 1), (2, 1)], (2, 1), Distance: 4 units
